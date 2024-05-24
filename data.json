@@ -1,0 +1,73 @@
+{
+    "Name": "Balram Meena",
+    "Roll no.": "0827CI211046",
+    "Course": "B.tech",
+    "Branch": "CI",
+    "Semester": "5",
+    "Status": "Regular",
+    "Result": "Pass",
+    "SGPA": "7.13",
+    "CGPA": "6.82",
+    "Subjects": [
+        {
+            "Subject": "CSIT 501(T)",
+            "Total Credit": "3",
+            "Earned Credit": "3",
+            "Grade": "C+"
+        },
+        {
+            "Subject": "CSIT 502(T)",
+            "Total Credit": "3",
+            "Earned Credit": "3",
+            "Grade": "C+"
+        },
+        {
+            "Subject": "CSIT 503(T)",
+            "Total Credit": "4",
+            "Earned Credit": "4",
+            "Grade": "B"
+        },
+        {
+            "Subject": "CSIT 504(T)",
+            "Total Credit": "3",
+            "Earned Credit": "3",
+            "Grade": "C"
+        },
+        {
+            "Subject": "BT-407(P)",
+            "Total Credit": "3",
+            "Earned Credit": "3",
+            "Grade": "A"
+        },
+        {
+            "Subject": "CSIT 501(P)",
+            "Total Credit": "1",
+            "Earned Credit": "1",
+            "Grade": "B"
+        },
+        {
+            "Subject": "CSIT 502(P)",
+            "Total Credit": "1",
+            "Earned Credit": "1",
+            "Grade": "B+"
+        },
+        {
+            "Subject": "CSIT 505(P)",
+            "Total Credit": "2",
+            "Earned Credit": "2",
+            "Grade": "B"
+        },
+        {
+            "Subject": "CSIT 506(P)",
+            "Total Credit": "2",
+            "Earned Credit": "2",
+            "Grade": "A"
+        },
+        {
+            "Subject": "CSIT 508(P)",
+            "Total Credit": "2",
+            "Earned Credit": "2",
+            "Grade": "A"
+        }
+    ]
+}
